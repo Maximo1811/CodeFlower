@@ -2,14 +2,14 @@ from turtle import *
 import colorsys
 
 # Agregar el texto en la cabecera
-header_text = "Te quiero amix, no seras espectadora mientras seamos ingenieras"
+header_text = "Esta flor es para ti xq me has enseñado varias cosas en esta vida"
 color("white")  # Color del texto
 penup()
 goto(-180, 250)  # Posición del texto
 pendown()
 write(header_text, align="center", font=("Arial", 4, "normal"))
 
-speed(20)
+speed(270)
 bgcolor("black")
 h = 0
 # Dibujar el tallo verde del girasol
